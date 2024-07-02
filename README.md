@@ -1,5 +1,5 @@
 # Python-practice-
-
+<body
 print(10>9)
 print(10==9)
 print(10<9)
@@ -11,6 +11,7 @@ if b>a:
     print("b is greater than a")
 else:
     print("b is not greater than a")
+body>
 
 print(bool("hello"))
 print(bool(15))
